@@ -262,7 +262,7 @@ Blockly.Msg["MATH_ROUND_OPERATOR_ROUND"] = "կլորացնել";
 Blockly.Msg["MATH_ROUND_OPERATOR_ROUNDDOWN"] = "կլորացնել ցած";
 Blockly.Msg["MATH_ROUND_OPERATOR_ROUNDUP"] = "կլորացնել վեր";
 Blockly.Msg["MATH_ROUND_TOOLTIP"] = "Կլորացնում է թիվը վերև կամ ներքև:";
-Blockly.Msg["MATH_SINGLE_HELPURL"] = "https://en.wikipedia.org/wiki/Square_root";  // untranslated
+Blockly.Msg["MATH_SINGLE_HELPURL"] = "https://en.wikipedia.org/wiki/Square_root";
 Blockly.Msg["MATH_SINGLE_OP_ABSOLUTE"] = "բացարձակ";
 Blockly.Msg["MATH_SINGLE_OP_ROOT"] = "Քառակուսի արմատ";
 Blockly.Msg["MATH_SINGLE_TOOLTIP_ABS"] = "Վերադարձնում է թվի բացարձակ արժեքը:";
@@ -437,4 +437,4 @@ Blockly.Msg["PROCEDURES_HUE"] = "290";
 Blockly.Msg["COLOUR_HUE"] = "20";
 Blockly.Msg["VARIABLES_DYNAMIC_HUE"] = "310";
 return Blockly.Msg;
-}));
+})); 

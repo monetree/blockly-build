@@ -22,6 +22,12 @@
 /* eslint-disable */
 'use strict';
 
+// Add a helper method to set the Blockly locale.
+Blockly.setLocale = function (locale) {
+  Object.keys(locale).forEach(function (k) {
+    Blockly.Msg[k] = locale[k];
+  });
+};
 
 return Blockly;
-}));
+})); 

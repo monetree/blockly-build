@@ -4,4 +4,13 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-export declare const dartGenerator: any;
+/**
+ * @fileoverview Type definitions for the Dart generator.
+ * @author samelh@google.com (Sam El-Husseini)
+ */
+
+/// <reference path="core.d.ts" />
+
+import * as Blockly from './core';
+declare const dart: any;
+export = dart;

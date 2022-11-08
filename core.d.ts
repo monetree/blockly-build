@@ -4,4 +4,11 @@
  * SPDX-License-Identifier: Apache-2.0
  */
 
-export * from './core/blockly';
+/**
+ * @fileoverview Type definitions for Blockly core.
+ * @author samelh@google.com (Sam El-Husseini)
+ */
+
+/// <reference path="blockly.d.ts" />
+
+export * from 'core/blockly';
